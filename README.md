@@ -8,3 +8,6 @@
 
 ## 노션
 ##### https://www.notion.so/75353d2aac634f0897b7ac43b068a43e
+
+## ERD
+##### https://dbdiagram.io/d/6329aa2b0911f91ba5f2f66a
